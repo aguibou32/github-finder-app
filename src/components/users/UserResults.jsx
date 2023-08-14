@@ -1,6 +1,6 @@
 import Spinner from "../layouts/Spinner";
 import UserItem from "./UserItem";
-import { useContext, useEffect } from "react";
+import { useContext } from "react";
 import GithubContext from "../../context/github/GithubContext";
 
 function UserResults() {
